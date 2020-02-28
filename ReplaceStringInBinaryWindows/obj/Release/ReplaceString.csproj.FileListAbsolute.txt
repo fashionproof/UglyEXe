@@ -1,0 +1,6 @@
+C:\Tools\AutoReplace\ReplaceStringInBinaryWindows\obj\Release\ReplaceString.csprojAssemblyReference.cache
+C:\Tools\AutoReplace\ReplaceStringInBinaryWindows\bin\Release\ReplaceString.exe.config
+C:\Tools\AutoReplace\ReplaceStringInBinaryWindows\bin\Release\ReplaceString.exe
+C:\Tools\AutoReplace\ReplaceStringInBinaryWindows\bin\Release\ReplaceString.pdb
+C:\Tools\AutoReplace\ReplaceStringInBinaryWindows\obj\Release\ReplaceString.exe
+C:\Tools\AutoReplace\ReplaceStringInBinaryWindows\obj\Release\ReplaceString.pdb
